@@ -1,0 +1,5 @@
+permite que utilizamos JS
+
+plataforma que utiliza da V8 (engine de entendimento do JS) no lado do back-edn, permitindo que a gente trate de requisições 
+
+api restful - oferece mais flexibilidade dos dados, além de trabalhar com uma única api para diferentes plataformas
